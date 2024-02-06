@@ -1,0 +1,8 @@
+{
+	"database": {
+		"url": "../db/data.db"
+	},
+	"server": {
+		"port": 3333
+	}
+}
